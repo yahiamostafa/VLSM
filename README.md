@@ -26,6 +26,9 @@ A | 192.168.1.96 | 192.168.1.97|192.168.1.110|192.168.1.111
 C | 192.168.1.112| 192.168.1.113|192.168.1.114|192.168.1.115
 
 
+Here is a python Application using a **PyQt5** Library to make a UI.
+**To be able to run this application in your Computer You have to install the requirements.txt file**
+
 <img src="https://github.com/yahiamostafa/VLSM/blob/main/Screenshot%20from%202022-11-25%2019-57-22.png" alt="Alt text" title="Screenshot from the The Application">
 
 <img src="https://github.com/yahiamostafa/VLSM/blob/main/Screenshot%20from%202022-11-25%2019-57-35.png" alt="Alt text" title="Screenshot from the The Application">
