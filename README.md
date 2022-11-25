@@ -27,3 +27,5 @@ C | 192.168.1.112| 192.168.1.113|192.168.1.114|192.168.1.115
 
 
 <img src="https://github.com/yahiamostafa/VLSM/blob/main/Screenshot%20from%202022-11-25%2019-57-22.png" alt="Alt text" title="Screenshot from the The Application">
+
+<img src="https://github.com/yahiamostafa/VLSM/blob/main/Screenshot%20from%202022-11-25%2019-57-35.png" alt="Alt text" title="Screenshot from the The Application">
