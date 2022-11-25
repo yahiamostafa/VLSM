@@ -26,4 +26,4 @@ A | 192.168.1.96 | 192.168.1.97|192.168.1.110|192.168.1.111
 C | 192.168.1.112| 192.168.1.113|192.168.1.114|192.168.1.115
 
 
-<img src="/home/yahia/Pictures/Screenshots/Screenshot from 2022-11-25 19-57-22.png" alt="Alt text" title="Optional title">
+<img src="https://github.com/yahiamostafa/VLSM/blob/main/Screenshot%20from%202022-11-25%2019-57-22.png" alt="Alt text" title="Screenshot from the The Application">
